@@ -1,3 +1,4 @@
+![LOGO](https://github.com/ritesh-bca/RITESHBCA-DEMO/blob/main/1740069358358.jpg)
 <h1 align="center">Hi 👋, I'm RITESH TIWARI</h1>
 <h3 align="center">I AM BCA STUDENT from India</h3>
 
